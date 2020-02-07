@@ -1,0 +1,6 @@
+framework module Pods_Autolayout_iPhone {
+  umbrella header "Pods-Autolayout-iPhone-umbrella.h"
+
+  export *
+  module * { export * }
+}

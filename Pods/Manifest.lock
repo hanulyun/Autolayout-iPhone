@@ -1,0 +1,16 @@
+PODS:
+  - DeviceKit (2.3.0)
+
+DEPENDENCIES:
+  - DeviceKit (~> 2.0)
+
+SPEC REPOS:
+  trunk:
+    - DeviceKit
+
+SPEC CHECKSUMS:
+  DeviceKit: da103891aa928d89f64ea8dd8aca738c5f3d8ac0
+
+PODFILE CHECKSUM: 84ea7c417e65d9f2c55642f605d0a24cb6966263
+
+COCOAPODS: 1.8.4
